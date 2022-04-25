@@ -1,2 +1,9 @@
-# servo-calibrador
-Banco para calibración de servomotores. 
+# Servo-calibrador
+Es un banco minimalista para calibración de servomotores.
+
+## Funcionamiento
+
+## Materiales
+
+## Construcción
+
